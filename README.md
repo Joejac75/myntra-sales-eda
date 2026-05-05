@@ -9,6 +9,12 @@ This project performs Exploratory Data Analysis (EDA) on the Myntra sales datase
 - Discount vs pricing trends
 - Ratings distribution and customer satisfaction
 - Correlation between numerical features
+- ## 📌 Key Insights
+- Price and MRP are strongly correlated
+- Majority products fall in low to mid-price range
+- Ratings are mostly above 4 indicating high satisfaction
+- Discounts are inconsistently applied
+- Few brands dominate product listings
 
 ## 🛠️ Tools Used
 - Python
@@ -28,3 +34,6 @@ This analysis helps in understanding product pricing strategies, customer prefer
 
 ## ▶️ How to Run
 Open `myntra_eda.ipynb` using Google Colab or Jupyter Notebook.
+## 📂 Project Structure
+- myntra_eda.ipynb → Main analysis notebook
+- README.md → Project documentation
