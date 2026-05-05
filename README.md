@@ -1,15 +1,30 @@
-# myntra-sales-eda
-Exploratory Data Analysis on Myntra Sales Dataset using Python, Matplotlib, and Seaborn
-# Myntra Sales EDA
+# Myntra Sales Data Analysis (EDA)
 
-This project analyzes Myntra sales dataset using Python.
+## 📌 Overview
+This project performs Exploratory Data Analysis (EDA) on the Myntra sales dataset to understand pricing patterns, brand distribution, discounts, and customer behavior.
 
-Includes:
-- Data preprocessing
-- 10 visualizations (UBM approach)
-- Business insights
+## 📊 Key Analysis
+- Price distribution of products
+- Brand-wise product count and dominance
+- Discount vs pricing trends
+- Ratings distribution and customer satisfaction
+- Correlation between numerical features
 
-Tools used:
+## 🛠️ Tools Used
+- Python
 - Pandas
 - Matplotlib
 - Seaborn
+
+## 📈 Insights
+- Strong correlation between MRP and Price
+- Most products fall in the low to mid-price range
+- Ratings are mostly high (around 4+)
+- Discounts are inconsistently applied
+- Few brands dominate the dataset
+
+## 🚀 Outcome
+This analysis helps in understanding product pricing strategies, customer preferences, and improving decision-making in e-commerce platforms.
+
+## ▶️ How to Run
+Open `myntra_eda.ipynb` using Google Colab or Jupyter Notebook.
